@@ -7,3 +7,6 @@
 
 const characters = ['bowerman', 'swordsman', 'magician', 'undead', 'zombie', 'daemon'];
 export default characters;
+
+// const bowerman = new Bowerman('Irina', 'bowerman')
+// console.log(bowerman)
